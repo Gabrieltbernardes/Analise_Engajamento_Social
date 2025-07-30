@@ -1,0 +1,13 @@
+marca,topico_em_comum,media_sentimento,media_toxicidade,taxa_engajamento_real
+Google,Delivery,0.06091952,0.51191619,0.1423
+Microsoft,Delivery,0.03128208,0.52441557,0.1287
+Microsoft,Marketing,0.02773366,0.51517366,0.1263
+Google,Marketing,-0.01879162,0.48519218,0.1222
+Google,Pricing,0.0726865,0.5318445,0.1261
+Microsoft,Pricing,-0.00177381,0.45801333,0.1201
+Google,Product,-0.00966732,0.5101478,0.124
+Microsoft,Product,-0.05433018,0.50568964,0.1259
+Microsoft,Returns,0.03452821,0.54114051,0.1389
+Google,Returns,0.02879579,0.50080514,0.1317
+Microsoft,Support,0.01744923,0.47875795,0.1202
+Google,Support,-0.03815625,0.52106923,0.1216

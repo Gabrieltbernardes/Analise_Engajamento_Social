@@ -1,0 +1,13 @@
+location,media_sentimento,media_toxicidade,numero_de_posts
+"London, UK",-0.09695556,0.54028704,54
+"Sydney, Australia",-0.09084565,0.50021087,46
+"Lyon, France",-0.08422667,0.51165556,45
+"Dubai, UAE",-0.07253433,0.51088209,67
+"Milan, Italy",-0.06871039,0.52462468,77
+"Delhi, India",-0.06671404,0.53820702,57
+"Vancouver, Canada",-0.05645667,0.55273167,60
+"Mumbai, India",-0.0521537,0.59527963,54
+"Shanghai, China",-0.04693973,0.51745205,73
+"Mexico City, Mexico",-0.01420167,0.58467167,60
+"Houston, USA",-0.01130159,0.52472698,63
+"Lagos, Nigeria",-0.00822131,0.52656557,61
